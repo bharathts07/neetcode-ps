@@ -8,7 +8,7 @@ Each problem is stored in its own subfolder under the `Problem` directory. Each 
 
 ## Problems
 
-| Number | Leetcode Number | Problem  | Solution | Diffiulty |
-|__|__|__|__| __ |
+| Number | Leetcode Number | Problem  | Solution | Difficulty |
+|--------|-----------------|----------|----------|------------|
 | 1 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [217](/Problems/217/index.md) | Easy |
-| 2| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [242](/Problems/242/index.md) | Easy |
+| 2 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [242](/Problems/242/index.md) | Easy |
