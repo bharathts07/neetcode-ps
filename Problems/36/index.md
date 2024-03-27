@@ -53,7 +53,35 @@ Explanation: Same as Example 1, except with the 5 in the top left corner being m
 
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
+        rows = [set() for _ in range(9)]
+        cols = [set() for _ in range(9)]
+        boxes = [set() for _ in range(9)]
+
+        for i in range(9):
+            for j in range(9):
+                num = board[i][j]
+                if num == '.':
+                    continue  # Skip empty cells
+
+                # Calculate the index of the sub-box
+                box_index = (i // 3) * 3 + j // 3
+
+                # Check if the number is already in the current row, column, or sub-box
+                if num in rows[i] or num in cols[j] or num in boxes[box_index]:
+                    return False
+
+                # Add the number to the corresponding row, column, and sub-box sets
+                rows[i].add(num)
+                cols[j].add(num)
+                boxes[box_index].add(num)
+
+        return True
 
 ```
 
 ## Thoughts
+
+Struggled with finding the right box index number. Got to know about floor operator in python. Once you know these it becomes much easier to write the checking logic
+
+Time complexity = O(n^2)  , where n is the row/column size
+Space complexity = O(n)   , for the rows, cols and boxes variable
