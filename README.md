@@ -24,6 +24,8 @@ Each problem is stored in its own subfolder under the `Problem` directory. Each 
 
 ### Two Pointers
 
+| Number | Leetcode Number | Problem  | Solution | Difficulty |
+|--------|-----------------|----------|----------|------------|
 | 1 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [125](/Problems/125/index.md) | Easy |
 | 2 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [167](/Problems/167/index.md) | Medium |
 | 3 | 15 | [3sum](https://leetcode.com/problems/3sum/description/) | [15](/Problems/15/index.md) | Medium |
@@ -32,4 +34,6 @@ Each problem is stored in its own subfolder under the `Problem` directory. Each 
 
 ### Sliding Window
 
+| Number | Leetcode Number | Problem  | Solution | Difficulty |
+|--------|-----------------|----------|----------|------------|
 | 1 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [121](/Problems/121/index.md) | Easy |
