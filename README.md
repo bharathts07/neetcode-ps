@@ -37,3 +37,8 @@ Each problem is stored in its own subfolder under the `Problem` directory. Each 
 | Number | Leetcode Number | Problem  | Solution | Difficulty |
 |--------|-----------------|----------|----------|------------|
 | 1 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [121](/Problems/121/index.md) | Easy |
+| 2 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [3](/Problems/3/index.md) | Medium |
+| 3 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | [424](/Problems/424/index.md) | Medium |
+| 4 | 567 | [Permutation In String](https://leetcode.com/problems/permutation-in-string/description/) | [567](/Problems/567/index.md) | Medium |
+| 5 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | [76](/Problems/76/index.md) | Hard |
+| 6 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) | [239](/Problems/239/index.md) | Hard |
