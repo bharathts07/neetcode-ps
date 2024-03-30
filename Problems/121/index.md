@@ -27,10 +27,25 @@ Explanation: In this case, no transactions are done and the max profit = 0.
 ## Solution
 
 ```python
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+        min_price = float('inf')  # Initialize min_price to a large value
+        max_profit = 0  
+
+        for price in prices:
+            # Update min_price if the current price is lower
+            min_price = min(min_price, price)
+            
+            # Update max_profit if selling at the current price yields a higher profit
+            max_profit = max(max_profit, price - min_price)
+
+        return max_profit
 
 ```
 
 ## Thoughts
 
-Time  Complexity
-Space Complexity
+Initially thought it would be O(n^2) solutions where you have two pointer pair iterating over each pair combination to get the best profit.
+
+Time  Complexity : O(n)
+Space Complexity : O(1)
