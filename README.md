@@ -42,3 +42,7 @@ Each problem is stored in its own subfolder under the `Problem` directory. Each 
 | 4 |  [Permutation In String](https://leetcode.com/problems/permutation-in-string/description/) | [567](/Problems/567/index.md) | Medium |
 | 5 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | [76](/Problems/76/index.md) | Hard |
 | 6 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) | [239](/Problems/239/index.md) | Hard |
+
+## Stack
+
+| 1 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [20](/Problems/20/index.md) | Easy |
