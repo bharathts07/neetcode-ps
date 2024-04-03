@@ -45,4 +45,6 @@ Each problem is stored in its own subfolder under the `Problem` directory. Each 
 
 ## Stack
 
+| Number | Problem  | Leetcode Number/Solution | Difficulty |
+|--------|----------|--------------------------|------------|
 | 1 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [20](/Problems/20/index.md) | Easy |
