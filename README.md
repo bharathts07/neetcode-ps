@@ -48,3 +48,9 @@ Each problem is stored in its own subfolder under the `Problem` directory. Each 
 | Number | Problem  | Leetcode Number/Solution | Difficulty |
 |--------|----------|--------------------------|------------|
 | 1 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [20](/Problems/20/index.md) | Easy |
+| 2 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | [155](/Problems/155/index.md) | Medium |
+| 3 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | [150](/Problems/150/index.md) | Medium |
+| 4 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [22](/Problems/22/index.md) | Medium |
+| 5 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | [739](/Problems/739/index.md) | Medium |
+| 6 | [Car Fleet](https://leetcode.com/problems/car-fleet/description/) | [853](/Problems/853/index.md) | Medium |
+| 7 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) | [84](/Problems/84/index.md) | Hard |
