@@ -66,4 +66,10 @@ Each problem is stored in its own subfolder under the `Problem` directory. Each 
 | 5      | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)             | [33](/Problems/33/index.md)   | Medium     |
 | 6      | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/description/)                     | [981](/Problems/981/index.md) | Medium     |
 | 6      | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/description/)                     | [981](/Problems/981/index.md) | Medium     |
-| 7      | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)                   | [4](/Problems/4/index.md)     | Medium     |
+| 7      | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)                   | [4](/Problems/4/index.md)     | Hard       |
+
+## Linked List
+
+| Number | Problem                                                                                                                 | Leetcode Number/Solution      | Difficulty |
+| ------ | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ---------- |
+| 1      | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)                                                           | [206](/Problems/206/index.md) | Easy       |
