@@ -70,6 +70,10 @@ Each problem is stored in its own subfolder under the `Problem` directory. Each 
 
 ## Linked List
 
-| Number | Problem                                                                                                                 | Leetcode Number/Solution      | Difficulty |
-| ------ | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ---------- |
-| 1      | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)                                                           | [206](/Problems/206/index.md) | Easy       |
+| Number | Problem                                                                               | Leetcode Number/Solution      | Difficulty |
+| ------ | ------------------------------------------------------------------------------------- | ----------------------------- | ---------- |
+| 1      | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [206](/Problems/206/index.md) | Easy       |
+| 2      | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)       | [21](/Problems/21/index.md)   | Easy       |
+| 3      | [Reorder List](https://leetcode.com/problems/reorder-list/)       | [143](/Problems/143/index.md)   | Medium       |
+| 4      | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)       | [19](/Problems/19/index.md)   | Medium       |
+| 5      | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/)       | [138](/Problems/138/index.md)   | Medium       |
