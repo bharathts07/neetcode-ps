@@ -70,10 +70,16 @@ Each problem is stored in its own subfolder under the `Problem` directory. Each 
 
 ## Linked List
 
-| Number | Problem                                                                               | Leetcode Number/Solution      | Difficulty |
-| ------ | ------------------------------------------------------------------------------------- | ----------------------------- | ---------- |
-| 1      | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [206](/Problems/206/index.md) | Easy       |
-| 2      | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)       | [21](/Problems/21/index.md)   | Easy       |
-| 3      | [Reorder List](https://leetcode.com/problems/reorder-list/)       | [143](/Problems/143/index.md)   | Medium       |
-| 4      | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)       | [19](/Problems/19/index.md)   | Medium       |
-| 5      | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/)       | [138](/Problems/138/index.md)   | Medium       |
+| Number | Problem                                                                                                         | Leetcode Number/Solution      | Difficulty |
+| ------ | --------------------------------------------------------------------------------------------------------------- | ----------------------------- | ---------- |
+| 1      | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)                           | [206](/Problems/206/index.md) | Easy       |
+| 2      | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                 | [21](/Problems/21/index.md)   | Easy       |
+| 3      | [Reorder List](https://leetcode.com/problems/reorder-list/)                                                     | [143](/Problems/143/index.md) | Medium     |
+| 4      | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [19](/Problems/19/index.md)   | Medium     |
+| 5      | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/)       | [138](/Problems/138/index.md) | Medium     |
+| 6      | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)                                   | [2](/Problems/2/index.md)     | Medium     |
+| 7      | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)                               | [141](/Problems/141/index.md) | Easy       |
+| 8      | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)               | [287](/Problems/287/index.md) | Medium     |
+| 9      | [LRU Cache](https://leetcode.com/problems/lru-cache/description/)                                               | [146](/Problems/146/index.md) | Medium     |
+| 10     | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)                         | [23](/Problems/23/index.md)   | Hard       |
+| 11     | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)                 | [25](/Problems/25/index.md) | Hard       |
