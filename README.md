@@ -86,9 +86,11 @@ Each problem is stored in its own subfolder under the `Problem` directory. Each 
 
 ## Trees
 
-| Number | Problem                                                                                                 | Leetcode Number/Solution      | Difficulty |
-| ------ | ------------------------------------------------------------------------------------------------------- | ----------------------------- | ---------- |
-| 1      | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)                     | [226](/Problems/226/index.md) | Easy       |
-| 2      | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [104](/Problems/104/index.md) | Easy       |
-| 3      | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)           | [543](/Problems/543/index.md) | Easy       |
-| 4      | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)                 | [110](/Problems/110/index.md) | Easy       |
+| Number | Problem                                                                                                 | Leetcode Number/Solution       | Difficulty |
+| ------ | ------------------------------------------------------------------------------------------------------- | ------------------------------ | ---------- |
+| 1      | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)                     | [226](/Problems/226/index.md)  | Easy       |
+| 2      | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [104](/Problems/104/index.md)  | Easy       |
+| 3      | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)           | [543](/Problems/543/index.md)  | Easy       |
+| 4      | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)                 | [110](/Problems/110/index.md)  | Easy       |
+| 5      | [Same Tree](https://leetcode.com/problems/same-tree/description/)                                       | [100](/Problems/100/readme.md) | Easy       |
+| 6      | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)           | [572](/Problems/572/readme.md) | Easy       |
