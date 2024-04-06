@@ -86,11 +86,20 @@ Each problem is stored in its own subfolder under the `Problem` directory. Each 
 
 ## Trees
 
-| Number | Problem                                                                                                 | Leetcode Number/Solution       | Difficulty |
-| ------ | ------------------------------------------------------------------------------------------------------- | ------------------------------ | ---------- |
-| 1      | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)                     | [226](/Problems/226/index.md)  | Easy       |
-| 2      | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [104](/Problems/104/index.md)  | Easy       |
-| 3      | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)           | [543](/Problems/543/index.md)  | Easy       |
-| 4      | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)                 | [110](/Problems/110/index.md)  | Easy       |
-| 5      | [Same Tree](https://leetcode.com/problems/same-tree/description/)                                       | [100](/Problems/100/readme.md) | Easy       |
-| 6      | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)           | [572](/Problems/572/readme.md) | Easy       |
+| Number | Problem                                                                                                                                                           | Leetcode Number/Solution         | Difficulty |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ---------- |
+| 1      | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)                                                                               | [226](/Problems/226/index.md)    | Easy       |
+| 2      | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)                                                           | [104](/Problems/104/index.md)    | Easy       |
+| 3      | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)                                                                     | [543](/Problems/543/index.md)    | Easy       |
+| 4      | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)                                                                           | [110](/Problems/110/index.md)    | Easy       |
+| 5      | [Same Tree](https://leetcode.com/problems/same-tree/description/)                                                                                                 | [100](/Problems/100/readme.md)   | Easy       |
+| 6      | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)                                                                     | [572](/Problems/572/readme.md)   | Easy       |
+| 7      | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)                       | [235](/Problems/235/readme.md)   | Medium     |
+| 8      | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                                                             | [102](/Problems/102/readme.md)   | Medium     |
+| 9      | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/)                                                             | [199](/Problems/199/readme.md)   | Medium     |
+| 10     | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/)                                                     | [1448](/Problems/1448/readme.md) | Medium     |
+| 11     | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)                                                             | [98](/Problems/98/readme.md)     | Medium     |
+| 12     | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)                                                         | [230](/Problems/230/readme.md)   | Medium     |
+| 13     | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) | [105](/Problems/105/readme.md)   | Medium     |
+| 14     | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)                                                           | [124](/Problems/124/readme.md)   | Hard       |
+| 14     | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)                                         | [297](/Problems/297/readme.md)   | Hard       |
