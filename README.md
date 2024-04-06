@@ -82,4 +82,13 @@ Each problem is stored in its own subfolder under the `Problem` directory. Each 
 | 8      | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)               | [287](/Problems/287/index.md) | Medium     |
 | 9      | [LRU Cache](https://leetcode.com/problems/lru-cache/description/)                                               | [146](/Problems/146/index.md) | Medium     |
 | 10     | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)                         | [23](/Problems/23/index.md)   | Hard       |
-| 11     | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)                 | [25](/Problems/25/index.md) | Hard       |
+| 11     | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)                 | [25](/Problems/25/index.md)   | Hard       |
+
+## Trees
+
+| Number | Problem                                                                                                 | Leetcode Number/Solution      | Difficulty |
+| ------ | ------------------------------------------------------------------------------------------------------- | ----------------------------- | ---------- |
+| 1      | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)                     | [226](/Problems/226/index.md) | Easy       |
+| 2      | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [104](/Problems/104/index.md) | Easy       |
+| 3      | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)           | [543](/Problems/543/index.md) | Easy       |
+| 4      | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)                 | [110](/Problems/110/index.md) | Easy       |
