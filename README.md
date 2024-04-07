@@ -103,3 +103,15 @@ Each problem is stored in its own subfolder under the `Problem` directory. Each 
 | 13     | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) | [105](/Problems/105/readme.md)   | Medium     |
 | 14     | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)                                                           | [124](/Problems/124/readme.md)   | Hard       |
 | 14     | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)                                         | [297](/Problems/297/readme.md)   | Hard       |
+
+## Heaps
+
+| Number | Problem                                                                                                       | Leetcode Number/Solution         | Difficulty |
+| ------ | ------------------------------------------------------------------------------------------------------------- | -------------------------------- | ---------- |
+| 1      | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) | [703](/Problems/703/readme.md)   | Easy       |
+| 2      | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)                             | [1046](/Problems/1046/readme.md) | Easy       |
+| 3      | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)                       | [973](/Problems/973/readme.md)   | Medium     |
+| 4      | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [215](/Problems/215/readme.md)   | Medium     |
+| 5      | [Task Scheduler](https://leetcode.com/problems/task-scheduler/description/)                                   | [621](/Problems/621/readme.md)   | Medium     |
+| 6      | [Design Twitter](https://leetcode.com/problems/design-twitter/description/)                                   | [355](/Problems/355/readme.md)   | Medium     |
+| 7      | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)       | [295](/Problems/295/readme.md)   | Hard       |
