@@ -129,3 +129,11 @@ Each problem is stored in its own subfolder under the `Problem` directory. Each 
 | 7      | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)                             | [131](/Problems/131/readme.md) | medium     |
 | 7      | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [17](/Problems/17/readme.md)   | medium     |
 | 8      | [N-Queens](https://leetcode.com/problems/n-queens/description/)                                                           | [51](/Problems/51/readme.md)   | hard       |
+
+## Tries
+
+| Number | Problem                                                                                                                             | Leetcode Number/Solution       | Difficulty |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ---------- |
+| 1      | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)                               | [208](/Problems/208/readme.md) | medium     |
+| 2      | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) | [211](/Problems/211/readme.md) | medium     |
+| 3      | [Word Search II](https://leetcode.com/problems/word-search-ii/description/)                                                         | [212](/Problems/212/readme.md) | medium     |
