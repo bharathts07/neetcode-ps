@@ -115,3 +115,17 @@ Each problem is stored in its own subfolder under the `Problem` directory. Each 
 | 5      | [Task Scheduler](https://leetcode.com/problems/task-scheduler/description/)                                   | [621](/Problems/621/readme.md)   | Medium     |
 | 6      | [Design Twitter](https://leetcode.com/problems/design-twitter/description/)                                   | [355](/Problems/355/readme.md)   | Medium     |
 | 7      | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)       | [295](/Problems/295/readme.md)   | Hard       |
+
+## Backtracking
+
+| Number | Problem                                                                                                                   | Leetcode Number/Solution       | Difficulty |
+| ------ | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ---------- |
+| 1      | [Subsets](https://leetcode.com/problems/subsets/description/)                                                             | [78](/Problems/78/readme.md)   | medium     |
+| 2      | [Combination Sum](https://leetcode.com/problems/combination-sum/description/)                                             | [39](/Problems/39/readme.md)   | medium     |
+| 3      | [Permutations](https://leetcode.com/problems/permutations/description/)                                                   | [46](/Problems/46/readme.md)   | medium     |
+| 4      | [Subsets II](https://leetcode.com/problems/subsets-ii/description/)                                                       | [90](/Problems/90/readme.md)   | medium     |
+| 5      | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)                                       | [40](/Problems/40/readme.md)   | medium     |
+| 6      | [Word Search](https://leetcode.com/problems/word-search/description/)                                                     | [79](/Problems/79/readme.md)   | medium     |
+| 7      | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)                             | [131](/Problems/131/readme.md) | medium     |
+| 7      | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [17](/Problems/17/readme.md)   | medium     |
+| 8      | [N-Queens](https://leetcode.com/problems/n-queens/description/)                                                           | [51](/Problems/51/readme.md)   | hard       |
