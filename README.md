@@ -137,3 +137,12 @@ Each problem is stored in its own subfolder under the `Problem` directory. Each 
 | 1      | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)                               | [208](/Problems/208/readme.md) | medium     |
 | 2      | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) | [211](/Problems/211/readme.md) | medium     |
 | 3      | [Word Search II](https://leetcode.com/problems/word-search-ii/description/)                                                         | [212](/Problems/212/readme.md) | medium     |
+
+## Graphs
+
+| Number | Problem                                                                             | Leetcode Number/Solution       | Difficulty |
+| ------ | ----------------------------------------------------------------------------------- | ------------------------------ | ---------- |
+| 1      | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/)   | [200](/Problems/200/readme.md) | medium     |
+| 2      | [Clone Graph](https://leetcode.com/problems/clone-graph/description/)               | [133](/Problems/133/readme.md) | medium     |
+| 3      | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [695](/Problems/695/readme.md) | medium     |
+| 4      | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [417](/Problems/417/readme.md) | medium     |
