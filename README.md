@@ -155,3 +155,9 @@ Each problem is stored in its own subfolder under the `Problem` directory. Each 
 | 11     | [Redundant Connection](https://leetcode.com/problems/redundant-connection/)           | [684](/Problems/684/readme.md) | medium     |
 | 12     | [Graph Valid Tree](https://neetcode.io/problems/valid-tree)                           | [??4](/Problems/??4/readme.md) | medium     |
 | 13     | [Word Ladder](https://leetcode.com/problems/word-ladder/description/)                 | [127](/Problems/127/readme.md) | hard       |
+
+## Advanced Graphs
+
+| Number | Problem                                                                                   | Leetcode Number/Solution       | Difficulty |
+| ------ | ----------------------------------------------------------------------------------------- | ------------------------------ | ---------- |
+| 1      | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/) | [332](/Problems/332/readme.md) | hard     |

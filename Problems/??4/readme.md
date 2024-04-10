@@ -36,11 +36,50 @@ false
 ## Solution
 
 ```python
+class UnionFind:
+    def __init__(self, size):
+        self.parent = [i for i in range(size)]
+        self.rank = [0] * size
+
+    def find(self, x):
+        if self.parent[x] != x:
+            self.parent[x] = self.find(self.parent[x])
+        return self.parent[x]
+
+    def union(self, x, y):
+        rootX = self.find(x)
+        rootY = self.find(y)
+        if rootX != rootY:
+            if self.rank[rootX] > self.rank[rootY]:
+                self.parent[rootY] = rootX
+            elif self.rank[rootX] < self.rank[rootY]:
+                self.parent[rootX] = rootY
+            else:
+                self.parent[rootY] = rootX
+                self.rank[rootX] += 1
+            return True
+        return False
+
+class Solution:
+    def validTree(self, n: int, edges: List[List[int]]) -> bool:
+        if len(edges) != n - 1:  # Check for the number of edges
+            return False
+        uf = UnionFind(n)
+        for a, b in edges:
+            if not uf.union(a, b):  # Detect cycle
+                return False
+        return True
 
 ```
 
 ## Thoughts
 
+Union Find seems very useful for graph problems.
+
 ### Time Complexity
 
+The time complexity is O(E \* α(N)), where E is the number of edges, and α(N) is the inverse Ackermann function, which grows very slowly and can be considered almost constant for practical purposes. Therefore, the time complexity is nearly O(E).
+
 ### Space Complexity
+
+The space complexity is O(N) for the Union-Find data structure.
