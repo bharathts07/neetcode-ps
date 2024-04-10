@@ -12,7 +12,18 @@ Return *a **2D list** of grid coordinates* `result` *where* `result[i] = [
 
 ![e1](https://assets.leetcode.com/uploads/2021/06/08/waterflow-grid.jpg)
 
-**Input:** heights = [[1,2,2,3,5],[3,2,3,4,4],[2,4,5,3,1],[6,7,1,4,5],[5,1,1,2,4]]
+**Input:**
+
+```python
+heights = [
+    [1,2,2,3,5],
+    [3,2,3,4,4],
+    [2,4,5,3,1],
+    [6,7,1,4,5],
+    [5,1,1,2,4]
+    ]
+```
+
 **Output:** [[0,4],[1,3],[1,4],[2,2],[3,0],[3,1],[4,0]]
 **Explanation:** The following cells can flow to the Pacific and Atlantic oceans, as shown below:
 [0,4]: [0,4] -> Pacific Ocean
@@ -47,11 +58,36 @@ Note that there are other possible paths for these cells to flow to the Pacific 
 ## Solution
 
 ```python
+class Solution:
+    def pacificAtlantic(self, heights: List[List[int]]) -> List[List[int]]:
+        if not heights or not heights[0]:
+            return []
 
+        def dfs(row, col, visited, prevHeight):
+            if (row, col) in visited or row < 0 or col < 0 or row >= len(heights) or col >= len(heights[0]) or heights[row][col] < prevHeight:
+                return
+            visited.add((row, col))
+            for dr, dc in [(-1, 0), (1, 0), (0, -1), (0, 1)]:
+                dfs(row + dr, col + dc, visited, heights[row][col])
+
+        pacific = set()
+        atlantic = set()
+        for i in range(len(heights)):
+            dfs(i, 0, pacific, float('-inf'))
+            dfs(i, len(heights[0]) - 1, atlantic, float('-inf'))
+        for j in range(len(heights[0])):
+            dfs(0, j, pacific, float('-inf'))
+            dfs(len(heights) - 1, j, atlantic, float('-inf'))
+
+        return list(pacific & atlantic)
 ```
 
 ## Thoughts
 
 ### Time Complexity
 
+The time complexity is O(M \* N), where M is the number of rows and N is the number of columns in the grid. This is because, in the worst case, we might need to visit every cell in the grid once for each ocean.
+
 ### Space Complexity
+
+The space complexity is O(M \* N) for the visited sets and the recursion stack. In the worst case, all cells might be added to the sets and the recursion stack.

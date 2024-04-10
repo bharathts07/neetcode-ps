@@ -140,9 +140,18 @@ Each problem is stored in its own subfolder under the `Problem` directory. Each 
 
 ## Graphs
 
-| Number | Problem                                                                             | Leetcode Number/Solution       | Difficulty |
-| ------ | ----------------------------------------------------------------------------------- | ------------------------------ | ---------- |
-| 1      | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/)   | [200](/Problems/200/readme.md) | medium     |
-| 2      | [Clone Graph](https://leetcode.com/problems/clone-graph/description/)               | [133](/Problems/133/readme.md) | medium     |
-| 3      | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [695](/Problems/695/readme.md) | medium     |
-| 4      | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [417](/Problems/417/readme.md) | medium     |
+| Number | Problem                                                                               | Leetcode Number/Solution       | Difficulty |
+| ------ | ------------------------------------------------------------------------------------- | ------------------------------ | ---------- |
+| 1      | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/)     | [200](/Problems/200/readme.md) | medium     |
+| 2      | [Clone Graph](https://leetcode.com/problems/clone-graph/description/)                 | [133](/Problems/133/readme.md) | medium     |
+| 3      | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)   | [695](/Problems/695/readme.md) | medium     |
+| 4      | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)   | [417](/Problems/417/readme.md) | medium     |
+| 5      | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/)   | [130](/Problems/130/readme.md) | medium     |
+| 6      | [Rotting ORanges](https://leetcode.com/problems/rotting-oranges/description/)         | [994](/Problems/994/readme.md) | medium     |
+| 7      | [Islands and Treasures](https://neetcode.io/problems/islands-and-treasure)            | [??2](/Problems/??2/readme.md) | medium     |
+| 8      | [Course Schedule](https://leetcode.com/problems/course-schedule/description/)         | [207](/Problems/207/readme.md) | medium     |
+| 9      | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)   | [210](/Problems/210/readme.md) | medium     |
+| 10     | [Count Connected Components](https://neetcode.io/problems/count-connected-components) | [??3](/Problems/??3/readme.md) | medium     |
+| 11     | [Redundant Connection](https://leetcode.com/problems/redundant-connection/)           | [684](/Problems/684/readme.md) | medium     |
+| 12     | [Graph Valid Tree](https://neetcode.io/problems/valid-tree)                           | [??4](/Problems/??4/readme.md) | medium     |
+| 13     | [Word Ladder](https://leetcode.com/problems/word-ladder/description/)                 | [127](/Problems/127/readme.md) | hard       |
