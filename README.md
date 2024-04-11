@@ -158,6 +158,11 @@ Each problem is stored in its own subfolder under the `Problem` directory. Each 
 
 ## Advanced Graphs
 
-| Number | Problem                                                                                   | Leetcode Number/Solution       | Difficulty |
-| ------ | ----------------------------------------------------------------------------------------- | ------------------------------ | ---------- |
-| 1      | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/) | [332](/Problems/332/readme.md) | hard     |
+| Number | Problem                                                                                         | Leetcode Number/Solution         | Difficulty |
+| ------ | ----------------------------------------------------------------------------------------------- | -------------------------------- | ---------- |
+| 1      | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/)       | [332](/Problems/332/readme.md)   | hard       |
+| 2      | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | [1584](/Problems/1584/readme.md) | medium     |
+| 3      | [Network Delay Time](https://leetcode.com/problems/network-delay-time/)                         | [743](/Problems/743/readme.md)   | medium     |
+| 4      | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/)         | [778](/Problems/778/readme.md)   | hard       |
+| 5      | [Foreign Dictionary](https://neetcode.io/problems/foreign-dictionary)                           | [??5](/Problems/??5/readme.md)   | hard       |
+| 6      | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)                           | [787](/Problems/787/readme.md)   | hard       |
