@@ -35,11 +35,38 @@ You may assume all tickets form at least one valid itinerary. You must use all t
 ## Solution
 
 ```python
+from collections import defaultdict
+
+class Solution:
+    def findItinerary(self, tickets: List[List[str]]) -> List[str]:
+        graph = defaultdict(list)
+
+        # Build graph and sort adjacency lists
+        for src, dst in sorted(tickets):
+            graph[src].append(dst)
+
+        itinerary = []
+
+        def dfs(airport):
+            while graph[airport]:
+                next_airport = graph[airport].pop(0)  # Remove the edge (ticket)
+                dfs(next_airport)
+            itinerary.append(airport)
+
+        dfs("JFK")
+
+        return itinerary[::-1]  # Reverse the itinerary
 
 ```
 
 ## Thoughts
 
+A very difficult problem. Read that this problem can be solved using a variation of the Eulerian path algorithm, specifically Hierholzer's algorithm, which is used to find an Eulerian path in a graph. Review this later
+
 ### Time Complexity
 
+The time complexity is O(E log E), where E is the number of edges (tickets) in the graph. The sorting of the adjacency lists takes O(E log E) time, and the DFS traversal takes O(E) time. However, the overall time complexity is dominated by the sorting step.
+
 ### Space Complexity
+
+The space complexity is O(V + E), where V is the number of vertices (airports) and E is the number of edges (tickets) in the graph. The graph itself takes O(V + E) space, and the call stack during DFS takes O(V) space in the worst case.
