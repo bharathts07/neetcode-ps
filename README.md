@@ -158,11 +158,23 @@ Each problem is stored in its own subfolder under the `Problem` directory. Each 
 
 ## Advanced Graphs
 
-| Number | Problem                                                                                         | Leetcode Number/Solution         | Difficulty |
-| ------ | ----------------------------------------------------------------------------------------------- | -------------------------------- | ---------- |
-| 1      | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/)       | [332](/Problems/332/readme.md)   | hard       |
-| 2      | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | [1584](/Problems/1584/readme.md) | medium     |
-| 3      | [Network Delay Time](https://leetcode.com/problems/network-delay-time/)                         | [743](/Problems/743/readme.md)   | medium     |
-| 4      | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/)         | [778](/Problems/778/readme.md)   | hard       |
-| 5      | [Foreign Dictionary](https://neetcode.io/problems/foreign-dictionary)                           | [??5](/Problems/??5/readme.md)   | hard       |
-| 6      | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)                           | [787](/Problems/787/readme.md)   | hard       |
+| Number | Problem                                                                                                       | Leetcode Number/Solution         | Difficulty |
+| ------ | ------------------------------------------------------------------------------------------------------------- | -------------------------------- | ---------- |
+| 1      | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/)                     | [332](/Problems/332/readme.md)   | hard       |
+| 2      | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)               | [1584](/Problems/1584/readme.md) | medium     |
+| 3      | [Network Delay Time](https://leetcode.com/problems/network-delay-time/)                                       | [743](/Problems/743/readme.md)   | medium     |
+| 4      | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/)                       | [778](/Problems/778/readme.md)   | hard       |
+| 5      | [Foreign Dictionary](https://neetcode.io/problems/foreign-dictionary)                                         | [??5](/Problems/??5/readme.md)   | hard       |
+| 6      | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) | [787](/Problems/787/readme.md)   | hard       |
+
+## 1-D Dynamic programming
+
+| Number | Problem                                                                                                   | Leetcode Number/Solution       | Difficulty |
+| ------ | --------------------------------------------------------------------------------------------------------- | ------------------------------ | ---------- |
+| 1      | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/)                 | [70](/Problems/70/readme.md)   | easy       |
+| 2      | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)           | [746](/Problems/746/readme.md) | easy       |
+| 3      | [House Robber](https://leetcode.com/problems/house-robber/description/)                                   | [198](/Problems/198/readme.md) | medium     |
+| 4      | [House Robber II](https://leetcode.com/problems/house-robber-ii/description/)                             | [213](/Problems/213/readme.md) | medium     |
+| 5      | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [5](/Problems/5/readme.md)     | medium     |
+| 6      | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                           | [647](/Problems/647/readme.md) | medium     |
+| 7      | [Decode Ways](https://leetcode.com/problems/decode-ways/description/)                                     | [91](/Problems/91/readme.md)   | medium     |
