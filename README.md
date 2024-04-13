@@ -178,3 +178,4 @@ Each problem is stored in its own subfolder under the `Problem` directory. Each 
 | 5      | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [5](/Problems/5/readme.md)     | medium     |
 | 6      | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                           | [647](/Problems/647/readme.md) | medium     |
 | 7      | [Decode Ways](https://leetcode.com/problems/decode-ways/description/)                                     | [91](/Problems/91/readme.md)   | medium     |
+| 7      | [Coin Change](https://leetcode.com/problems/coin-change/description/)                                     | [322](/Problems/322/readme.md) | medium     |

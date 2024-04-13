@@ -46,10 +46,36 @@ The test cases are generated so that the answer fits in a **32-bit** integer.
 ```python
 class Solution:
     def numDecodings(self, s: str) -> int:
+        if not s or s[0] == '0':
+            return 0
+
+        # Length of the string
+        n = len(s)
+
+        # dp[i] represents the number of ways to decode s[:i]
+        dp = [0] * (n + 1)
+        dp[0], dp[1] = 1, 1
+
+        for i in range(2, n + 1):
+            # Single character decoding (must not be '0')
+            if s[i-1] != '0':
+                dp[i] += dp[i-1]
+
+            # Double character decoding (must be between 10 to 26)
+            two_digit = int(s[i-2:i])  # Convert the two characters to an integer
+            if 10 <= two_digit <= 26:
+                dp[i] += dp[i-2]
+
+        return dp[n]
+
 ```
 
 ## Thoughts
 
 ### Time Complexity
 
+The time complexity of this solution is O(n), where n is the length of the string s. This is because we traverse the string once and perform constant-time operations for each character.
+
 ### Space Complexity
+
+The space complexity is O(n) due to the use of the dp array to store the number of decoding ways for each substring up to i.
