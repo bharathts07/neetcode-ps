@@ -169,13 +169,82 @@ Each problem is stored in its own subfolder under the `Problem` directory. Each 
 
 ## 1-D Dynamic programming
 
-| Number | Problem                                                                                                   | Leetcode Number/Solution       | Difficulty |
-| ------ | --------------------------------------------------------------------------------------------------------- | ------------------------------ | ---------- |
-| 1      | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/)                 | [70](/Problems/70/readme.md)   | easy       |
-| 2      | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)           | [746](/Problems/746/readme.md) | easy       |
-| 3      | [House Robber](https://leetcode.com/problems/house-robber/description/)                                   | [198](/Problems/198/readme.md) | medium     |
-| 4      | [House Robber II](https://leetcode.com/problems/house-robber-ii/description/)                             | [213](/Problems/213/readme.md) | medium     |
-| 5      | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [5](/Problems/5/readme.md)     | medium     |
-| 6      | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                           | [647](/Problems/647/readme.md) | medium     |
-| 7      | [Decode Ways](https://leetcode.com/problems/decode-ways/description/)                                     | [91](/Problems/91/readme.md)   | medium     |
-| 7      | [Coin Change](https://leetcode.com/problems/coin-change/description/)                                     | [322](/Problems/322/readme.md) | medium     |
+| Number | Problem                                                                                                     | Leetcode Number/Solution       | Difficulty |
+| ------ | ----------------------------------------------------------------------------------------------------------- | ------------------------------ | ---------- |
+| 1      | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/)                   | [70](/Problems/70/readme.md)   | easy       |
+| 2      | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)             | [746](/Problems/746/readme.md) | easy       |
+| 3      | [House Robber](https://leetcode.com/problems/house-robber/description/)                                     | [198](/Problems/198/readme.md) | medium     |
+| 4      | [House Robber II](https://leetcode.com/problems/house-robber-ii/description/)                               | [213](/Problems/213/readme.md) | medium     |
+| 5      | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)   | [5](/Problems/5/readme.md)     | medium     |
+| 6      | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                             | [647](/Problems/647/readme.md) | medium     |
+| 7      | [Decode Ways](https://leetcode.com/problems/decode-ways/description/)                                       | [91](/Problems/91/readme.md)   | medium     |
+| 7      | [Coin Change](https://leetcode.com/problems/coin-change/description/)                                       | [322](/Problems/322/readme.md) | medium     |
+| 8      | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)             | [152](/Problems/152/readme.md) | medium     |
+| 9      | [Word Break](https://leetcode.com/problems/word-break/description/)                                         | [139](/Problems/139/readme.md) | medium     |
+| 10     | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [300](/Problems/300/readme.md) | medium     |
+| 11     | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)         | [416](/Problems/416/readme.md) | medium     |
+
+## 2-D Dynamic programming
+
+| Number | Problem                                           | Leetcode Number/Solution     | Difficulty |
+| ------ | ------------------------------------------------- | ---------------------------- | ---------- |
+| 1      | [Unique Paths]()                                  | [00](/Problems/00/readme.md) | medium     |
+| 2      | [Longest Common Subsequence]()                    | [00](/Problems/00/readme.md) | medium     |
+| 3      | [Best Time to Buy And Sell Stock With Cooldown]() | [00](/Problems/00/readme.md) | medium     |
+| 4      | [Coin Change II]()                                | [00](/Problems/00/readme.md) | medium     |
+| 5      | [Target Sum]()                                    | [00](/Problems/00/readme.md) | medium     |
+| 6      | [Interleaving String]()                           | [00](/Problems/00/readme.md) | medium     |
+| 7      | [Longest Increasing Path In a Matrix]()           | [00](/Problems/00/readme.md) | hard       |
+| 8      | [Distinct Subsequences]()                         | [00](/Problems/00/readme.md) | hard       |
+| 9      | [Edit Distance]()                                 | [00](/Problems/00/readme.md) | medium     |
+| 10     | [Burst Balloons]()                                | [00](/Problems/00/readme.md) | hard       |
+| 11     | [Regular Expression Matching]()                   | [00](/Problems/00/readme.md) | hard       |
+
+## Greedy
+
+| Number | Problem                                   | Leetcode Number/Solution     | Difficulty |
+| ------ | ----------------------------------------- | ---------------------------- | ---------- |
+| 1      | [Maximum Subarray]()                      | [00](/Problems/00/readme.md) | medium     |
+| 2      | [Jump Game]()                             | [00](/Problems/00/readme.md) | medium     |
+| 3      | [Jump Game II]()                          | [00](/Problems/00/readme.md) | medium     |
+| 4      | [Gas Station]()                           | [00](/Problems/00/readme.md) | medium     |
+| 5      | [Hand of Straights]()                     | [00](/Problems/00/readme.md) | medium     |
+| 6      | [Merge Triplets to Form Target Triplet]() | [00](/Problems/00/readme.md) | medium     |
+| 7      | [Partition Labels]()                      | [00](/Problems/00/readme.md) | medium     |
+| 8      | [Valid Parenthesis String]()              | [00](/Problems/00/readme.md) | medium     |
+
+## Intervals
+
+| Number | Problem                                    | Leetcode Number/Solution     | Difficulty |
+| ------ | ------------------------------------------ | ---------------------------- | ---------- |
+| 1      | [Insert Interval]()                        | [00](/Problems/00/readme.md) | medium     |
+| 2      | [Merge Intervals]()                        | [00](/Problems/00/readme.md) | medium     |
+| 3      | [Non Overlapping Intervals]()              | [00](/Problems/00/readme.md) | medium     |
+| 4      | [Meeting Rooms]()                          | [00](/Problems/00/readme.md) | easy       |
+| 5      | [Meeting Rooms II ]()                      | [00](/Problems/00/readme.md) | medium     |
+| 6      | [Minimum Interval to Include Each Query]() | [00](/Problems/00/readme.md) | hard       |
+
+## Math & Geometry
+
+| Number | Problem               | Leetcode Number/Solution     | Difficulty |
+| ------ | --------------------- | ---------------------------- | ---------- |
+| 1      | [Rotate Image]()      | [00](/Problems/00/readme.md) | medium     |
+| 2      | [Spiral Matrix]()     | [00](/Problems/00/readme.md) | medium     |
+| 3      | [Set Matrix Zeroes]() | [00](/Problems/00/readme.md) | medium     |
+| 4      | [Happy Number]()      | [00](/Problems/00/readme.md) | easy       |
+| 5      | [Plus One]()          | [00](/Problems/00/readme.md) | easy       |
+| 6      | [Pow(x, n)]()         | [00](/Problems/00/readme.md) | medium     |
+| 7      | [Multiply Strings]()  | [00](/Problems/00/readme.md) | medium     |
+| 8      | [Detect Squares]()    | [00](/Problems/00/readme.md) | medium     |
+
+## Bit Manipulation
+
+| Number | Problem    | Leetcode Number/Solution     | Difficulty |
+| ------ | ---------- | ---------------------------- | ---------- |
+| 1      | [Unique]() | [00](/Problems/00/readme.md) | easy       |
+| 2      | [Unique]() | [00](/Problems/00/readme.md) | easy       |
+| 3      | [Unique]() | [00](/Problems/00/readme.md) | easy       |
+| 4      | [Unique]() | [00](/Problems/00/readme.md) | easy       |
+| 5      | [Unique]() | [00](/Problems/00/readme.md) | easy       |
+| 6      | [Unique]() | [00](/Problems/00/readme.md) | medium     |
+| 7      | [Unique]() | [00](/Problems/00/readme.md) | medium     |

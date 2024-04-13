@@ -33,17 +33,18 @@ You may assume that you have an infinite number of each kind of coin.
 ```python
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
-        # Create dp array with a size of amount + 1, initialized to a large number
         dp = [float('inf')] * (amount + 1)
         dp[0] = 0  # Base case: no coins needed to make amount 0
 
-        # Fill dp array
-        for coin in coins:
-            for j in range(coin, amount + 1):
-                dp[j] = min(dp[j], dp[j - coin] + 1)
+        # Iterate over each amount
+        for j in range(1, amount + 1):
+            # Check each coin for this amount
+            for coin in coins:
+                if j >= coin:
+                    dp[j] = min(dp[j], dp[j - coin] + 1)
 
-        # Check if we found a solution
         return dp[amount] if dp[amount] != float('inf') else -1
+
 
 ```
 
@@ -51,4 +52,8 @@ class Solution:
 
 ### Time Complexity
 
+O(n \* m), where n is the number of different coins and m is the total amount.
+
 ### Space Complexity
+
+A dynamic programming table (dp) of size m + 1 is used, where m is the amount. This array is used to store the minimum number of coins needed for each amount from 0 to m. Thus, the space complexity is O(m), as the primary storage cost is the dp array which has an entry for each amount up to m.
