@@ -202,16 +202,16 @@ Each problem is stored in its own subfolder under the `Problem` directory. Each 
 
 ## Greedy
 
-| Number | Problem                                   | Leetcode Number/Solution     | Difficulty |
-| ------ | ----------------------------------------- | ---------------------------- | ---------- |
-| 1      | [Maximum Subarray]()                      | [00](/Problems/00/readme.md) | medium     |
-| 2      | [Jump Game]()                             | [00](/Problems/00/readme.md) | medium     |
-| 3      | [Jump Game II]()                          | [00](/Problems/00/readme.md) | medium     |
-| 4      | [Gas Station]()                           | [00](/Problems/00/readme.md) | medium     |
-| 5      | [Hand of Straights]()                     | [00](/Problems/00/readme.md) | medium     |
-| 6      | [Merge Triplets to Form Target Triplet]() | [00](/Problems/00/readme.md) | medium     |
-| 7      | [Partition Labels]()                      | [00](/Problems/00/readme.md) | medium     |
-| 8      | [Valid Parenthesis String]()              | [00](/Problems/00/readme.md) | medium     |
+| Number | Problem                                                                                                                   | Leetcode Number/Solution         | Difficulty |
+| ------ | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ---------- |
+| 1      | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)                                           | [53](/Problems/53/readme.md)     | medium     |
+| 2      | [Jump Game](https://leetcode.com/problems/jump-game/description/)                                                         | [55](/Problems/55/readme.md)     | medium     |
+| 3      | [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)                                                   | [45](/Problems/45/readme.md)     | medium     |
+| 4      | [Gas Station](https://leetcode.com/problems/gas-station/description/)                                                     | [134](/Problems/134/readme.md)   | medium     |
+| 5      | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/)                                         | [846](/Problems/846/readme.md)   | medium     |
+| 6      | [Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/description/) | [1899](/Problems/1899/readme.md) | medium     |
+| 7      | [Partition Labels](https://leetcode.com/problems/partition-labels/description/)                                           | [763](/Problems/763/readme.md)   | medium     |
+| 8      | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/description/)                           | [678](/Problems/678/readme.md)   | medium     |
 
 ## Intervals
 
