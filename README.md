@@ -186,19 +186,19 @@ Each problem is stored in its own subfolder under the `Problem` directory. Each 
 
 ## 2-D Dynamic programming
 
-| Number | Problem                                           | Leetcode Number/Solution     | Difficulty |
-| ------ | ------------------------------------------------- | ---------------------------- | ---------- |
-| 1      | [Unique Paths]()                                  | [00](/Problems/00/readme.md) | medium     |
-| 2      | [Longest Common Subsequence]()                    | [00](/Problems/00/readme.md) | medium     |
-| 3      | [Best Time to Buy And Sell Stock With Cooldown]() | [00](/Problems/00/readme.md) | medium     |
-| 4      | [Coin Change II]()                                | [00](/Problems/00/readme.md) | medium     |
-| 5      | [Target Sum]()                                    | [00](/Problems/00/readme.md) | medium     |
-| 6      | [Interleaving String]()                           | [00](/Problems/00/readme.md) | medium     |
-| 7      | [Longest Increasing Path In a Matrix]()           | [00](/Problems/00/readme.md) | hard       |
-| 8      | [Distinct Subsequences]()                         | [00](/Problems/00/readme.md) | hard       |
-| 9      | [Edit Distance]()                                 | [00](/Problems/00/readme.md) | medium     |
-| 10     | [Burst Balloons]()                                | [00](/Problems/00/readme.md) | hard       |
-| 11     | [Regular Expression Matching]()                   | [00](/Problems/00/readme.md) | hard       |
+| Number | Problem                                                                                                                                   | Leetcode Number/Solution         | Difficulty |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ---------- |
+| 1      | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                                                               | [62](/Problems/62/readme.md)     | medium     |
+| 2      | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/)                                       | [1143](/Problems/1143/readme.md) | medium     |
+| 3      | [Best Time to Buy And Sell Stock With Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | [309](/Problems/309/readme.md)   | medium     |
+| 4      | [Coin Change II](https://leetcode.com/problems/coin-change-ii/description/)                                                               | [518](/Problems/518/readme.md)   | medium     |
+| 5      | [Target Sum](https://leetcode.com/problems/target-sum/description/)                                                                       | [494](/Problems/494/readme.md)   | medium     |
+| 6      | [Interleaving String](https://leetcode.com/problems/interleaving-string/description/)                                                     | [97](/Problems/97/readme.md)     | medium     |
+| 7      | [Longest Increasing Path In a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)                                 | [329](/Problems/329/readme.md)   | hard       |
+| 8      | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/)                                                 | [115](/Problems/115/readme.md)   | hard       |
+| 9      | [Edit Distance]()                                                                                                                         | [00](/Problems/00/readme.md)     | medium     |
+| 10     | [Burst Balloons]()                                                                                                                        | [00](/Problems/00/readme.md)     | hard       |
+| 11     | [Regular Expression Matching]()                                                                                                           | [00](/Problems/00/readme.md)     | hard       |
 
 ## Greedy
 
