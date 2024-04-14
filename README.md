@@ -196,9 +196,9 @@ Each problem is stored in its own subfolder under the `Problem` directory. Each 
 | 6      | [Interleaving String](https://leetcode.com/problems/interleaving-string/description/)                                                     | [97](/Problems/97/readme.md)     | medium     |
 | 7      | [Longest Increasing Path In a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)                                 | [329](/Problems/329/readme.md)   | hard       |
 | 8      | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/)                                                 | [115](/Problems/115/readme.md)   | hard       |
-| 9      | [Edit Distance]()                                                                                                                         | [00](/Problems/00/readme.md)     | medium     |
-| 10     | [Burst Balloons]()                                                                                                                        | [00](/Problems/00/readme.md)     | hard       |
-| 11     | [Regular Expression Matching]()                                                                                                           | [00](/Problems/00/readme.md)     | hard       |
+| 9      | [Edit Distance](https://leetcode.com/problems/edit-distance/description/)                                                                 | [72](/Problems/72/readme.md)     | medium     |
+| 10     | [Burst Balloons](https://leetcode.com/problems/burst-balloons/description/)                                                               | [312](/Problems/312/readme.md)   | hard       |
+| 11     | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)                                     | [10](/Problems/10/readme.md)     | hard       |
 
 ## Greedy
 
