@@ -215,14 +215,14 @@ Each problem is stored in its own subfolder under the `Problem` directory. Each 
 
 ## Intervals
 
-| Number | Problem                                    | Leetcode Number/Solution     | Difficulty |
-| ------ | ------------------------------------------ | ---------------------------- | ---------- |
-| 1      | [Insert Interval]()                        | [00](/Problems/00/readme.md) | medium     |
-| 2      | [Merge Intervals]()                        | [00](/Problems/00/readme.md) | medium     |
-| 3      | [Non Overlapping Intervals]()              | [00](/Problems/00/readme.md) | medium     |
-| 4      | [Meeting Rooms]()                          | [00](/Problems/00/readme.md) | easy       |
-| 5      | [Meeting Rooms II ]()                      | [00](/Problems/00/readme.md) | medium     |
-| 6      | [Minimum Interval to Include Each Query]() | [00](/Problems/00/readme.md) | hard       |
+| Number | Problem                                                                                                                     | Leetcode Number/Solution         | Difficulty |
+| ------ | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ---------- |
+| 1      | [Insert Interval](https://leetcode.com/problems/insert-interval/description/)                                               | [57](/Problems/57/readme.md)     | medium     |
+| 2      | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)                                               | [56](/Problems/56/readme.md)     | medium     |
+| 3      | [Non Overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)                           | [435](/Problems/435/readme.md)   | medium     |
+| 4      | [Meeting Rooms](https://neetcode.io/problems/meeting-schedule)                                                              | [??6](/Problems/??6/readme.md)   | easy       |
+| 5      | [Meeting Rooms II](https://neetcode.io/problems/meeting-schedule-ii)                                                       | [??7](/Problems/??7/readme.md)   | medium     |
+| 6      | [Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/description/) | [1851](/Problems/1851/readme.md) | hard       |
 
 ## Math & Geometry
 
