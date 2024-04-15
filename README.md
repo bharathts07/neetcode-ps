@@ -241,10 +241,10 @@ Each problem is stored in its own subfolder under the `Problem` directory. Each 
 
 | Number | Problem    | Leetcode Number/Solution     | Difficulty |
 | ------ | ---------- | ---------------------------- | ---------- |
-| 1      | [Unique]() | [00](/Problems/00/readme.md) | easy       |
-| 2      | [Unique]() | [00](/Problems/00/readme.md) | easy       |
-| 3      | [Unique]() | [00](/Problems/00/readme.md) | easy       |
-| 4      | [Unique]() | [00](/Problems/00/readme.md) | easy       |
-| 5      | [Unique]() | [00](/Problems/00/readme.md) | easy       |
-| 6      | [Unique]() | [00](/Problems/00/readme.md) | medium     |
-| 7      | [Unique]() | [00](/Problems/00/readme.md) | medium     |
+| 1      | [Single Number](https://leetcode.com/problems/single-number/description/) | [136](/Problems/136/readme.md) | easy       |
+| 2      | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [191](/Problems/191/readme.md) | easy       |
+| 3      | [Counting Bits](https://leetcode.com/problems/counting-bits/description/) | [338](/Problems/338/readme.md) | easy       |
+| 4      | [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) | [190](/Problems/190/readme.md) | easy       |
+| 5      | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [268](/Problems/268/readme.md) | easy       |
+| 6      | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) | [371](/Problems/371/readme.md) | medium     |
+| 7      | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [7](/Problems/7/readme.md) | medium     |

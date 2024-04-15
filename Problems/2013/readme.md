@@ -46,14 +46,31 @@ detectSquares.count([11, 10]); // return 2. You can choose:
 
 ```python
 class DetectSquares:
-
     def __init__(self):
+        from collections import defaultdict
+        self.point_count = defaultdict(int)
+        self.coord_map = defaultdict(list)
 
+    def add(self, point):
+        x, y = point
+        self.point_count[(x, y)] += 1
+        if y not in self.coord_map[x]:
+            self.coord_map[x].append(y)
 
-    def add(self, point: List[int]) -> None:
-
-
-    def count(self, point: List[int]) -> int:
+    def count(self, point):
+        x1, y1 = point
+        result = 0
+        # Check for possible square formations using the horizontal distances
+        if x1 in self.coord_map:
+            for y2 in self.coord_map[x1]:
+                if y2 != y1:
+                    side = abs(y2 - y1)
+                    # For each potential square side, check corresponding opposite points
+                    if (x1 + side, y1) in self.point_count and (x1 + side, y2) in self.point_count:
+                        result += self.point_count[(x1 + side, y1)] * self.point_count[(x1, y2)] * self.point_count[(x1 + side, y2)]
+                    if (x1 - side, y1) in self.point_count and (x1 - side, y2) in self.point_count:
+                        result += self.point_count[(x1 - side, y1)] * self.point_count[(x1, y2)] * self.point_count[(x1 - side, y2)]
+        return result
 
 
 
@@ -65,6 +82,13 @@ class DetectSquares:
 
 ## Thoughts
 
+Very confusing, gave up midway, looked at the solution. Definitely needs review
+
 ### Time Complexity
 
+O(P), where P represents the total number of unique point entries
+
 ### Space Complexity
+
+O(1) for add
+O(k^2) in the worst case for each call, where k is the number of different y-coordinates that share the same x-coordinate in the worst case.
