@@ -221,21 +221,21 @@ Each problem is stored in its own subfolder under the `Problem` directory. Each 
 | 2      | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)                                               | [56](/Problems/56/readme.md)     | medium     |
 | 3      | [Non Overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)                           | [435](/Problems/435/readme.md)   | medium     |
 | 4      | [Meeting Rooms](https://neetcode.io/problems/meeting-schedule)                                                              | [??6](/Problems/??6/readme.md)   | easy       |
-| 5      | [Meeting Rooms II](https://neetcode.io/problems/meeting-schedule-ii)                                                       | [??7](/Problems/??7/readme.md)   | medium     |
+| 5      | [Meeting Rooms II](https://neetcode.io/problems/meeting-schedule-ii)                                                        | [??7](/Problems/??7/readme.md)   | medium     |
 | 6      | [Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/description/) | [1851](/Problems/1851/readme.md) | hard       |
 
 ## Math & Geometry
 
-| Number | Problem               | Leetcode Number/Solution     | Difficulty |
-| ------ | --------------------- | ---------------------------- | ---------- |
-| 1      | [Rotate Image]()      | [00](/Problems/00/readme.md) | medium     |
-| 2      | [Spiral Matrix]()     | [00](/Problems/00/readme.md) | medium     |
-| 3      | [Set Matrix Zeroes]() | [00](/Problems/00/readme.md) | medium     |
-| 4      | [Happy Number]()      | [00](/Problems/00/readme.md) | easy       |
-| 5      | [Plus One]()          | [00](/Problems/00/readme.md) | easy       |
-| 6      | [Pow(x, n)]()         | [00](/Problems/00/readme.md) | medium     |
-| 7      | [Multiply Strings]()  | [00](/Problems/00/readme.md) | medium     |
-| 8      | [Detect Squares]()    | [00](/Problems/00/readme.md) | medium     |
+| Number | Problem                                                                           | Leetcode Number/Solution         | Difficulty |
+| ------ | --------------------------------------------------------------------------------- | -------------------------------- | ---------- |
+| 1      | [Rotate Image](https://leetcode.com/problems/rotate-image/description/)           | [48](/Problems/48/readme.md)     | medium     |
+| 2      | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)         | [54](/Problems/54/readme.md)     | medium     |
+| 3      | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [73](/Problems/73/readme.md)     | medium     |
+| 4      | [Happy Number](https://leetcode.com/problems/happy-number/description/)           | [202](/Problems/202/readme.md)   | easy       |
+| 5      | [Plus One](https://leetcode.com/problems/plus-one/description/)                   | [66](/Problems/66/readme.md)     | easy       |
+| 6      | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/)                    | [50](/Problems/50/readme.md)     | medium     |
+| 7      | [Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)   | [43](/Problems/43/readme.md)     | medium     |
+| 8      | [Detect Squares](https://leetcode.com/problems/detect-squares/description/)       | [2013](/Problems/2013/readme.md) | medium     |
 
 ## Bit Manipulation
 
